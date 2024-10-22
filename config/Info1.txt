@@ -1,0 +1,20 @@
+<h4>About "Berichtsheft Generator"</h4>
+<p>Der Berichtsheft Generator ist eine kostenfreie und lizenzfreie Software, um das Erstellen von einfachen Berichtshefteinträgen.
+Die Einträge sind standardisiert und somit einheitlich und pflegeleicht. Die Software generiert aus zuvor gesammelten Einträgen
+schnell und einfach Berichte für die Woche. Dies kann von Vorteil sein, wenn man im Betrieb viel wiederholende Aufgaben erledigen muss,
+auch wenn man nicht auf die Anzahl der Stunden kommt, dann kann man sich einfach Inhalte dazu generieren. <p>
+<br>
+<br>
+Ich habe diese Software geschrieben, weil ich zu faul war, meine Tätigkeiten täglich zu dokumentieren. Das Problem ist hiermit gelöst, Freunde.
+Ich möchte euch aber trotzdem darauf hinweisen, dass das Berichtsheft selbstständig und individuell zu pflegen die bessere Form der Berichtsheftführung ist.
+<br>
+<br>
+<h4> Tätigkeiten Hinzufügen </h4>
+<p> Tätigkeiten können ober die Software <a href="#">BH Item Manager.exe"</a> hinzugefügt werden. Dieses Tool ist eine einfache Möglichkeit um Tätigkeiten zu verwalten.
+Tätigkeiten können Eingesehen werden, Hinzugefügt und Gelöscht werden.
+<br>
+<br>
+<h4>Speicherort</h4>
+<p>Die Dateien werden im Installationsverzeichnis gespeichert. Schaue im Ordner "Export" und wirst fündig. Alternativ kannst du den Inhalt auch aus dem Textfeld herauskopieren.</p>
+<br>
+<br>

@@ -1,0 +1,7 @@
+{
+    "paths": [
+        "all.json",
+        "test.json"
+    ],
+    "info_text": "# Berichtheft Item Manager\n\n## Einführung\nDer **Berichtheft Item Manager** ist ein einfaches Tool, mit dem Sie Einträge in JSON-Dateien verwalten können. Es bietet eine grafische Benutzeroberfläche (GUI), um Einträge hinzuzufügen, anzuzeigen und zu löschen.\n\n## Verwendung\n1. **Starten der Anwendung**: Führen Sie die ausführbare Datei (`.exe`) aus.\n2. **Datei auswählen**: Wählen Sie eine JSON-Datei aus dem Dropdown-Menü aus.\n3. **Einträge hinzufügen**:\n    - Geben Sie die neuen Einträge in das Textfeld ein.\n    - Klicken Sie auf den Button **\"Elemente hinzufügen\"**.\n4. **Einträge anzeigen**: Die vorhandenen Einträge werden in der Listbox angezeigt.\n5. **Einträge löschen**:\n    - Doppelklicken Sie auf einen Eintrag in der Listbox.\n    - Ein neues Fenster öffnet sich, in dem Sie den Eintrag sehen und löschen können.\n\n## Konfigurationsdatei\nDie Anwendung verwendet eine Konfigurationsdatei `config.json`, die sich im Ordner `/config` befindet. Diese Datei enthält wichtige Einstellungen, die nicht geändert werden sollten, um die Funktionalität der Anwendung sicherzustellen.\n\n### Beispiel für `config.json`\n```json\n{\n    \"paths\": [\n        \"all.json\"\n    ],\n    \"info_text\": \"## Allgemeine Hinweise\\n\\nHier können Sie allgemeine Hinweise einfügen. **Markdown** wird unterstützt!```\"\n\n}"
+}
