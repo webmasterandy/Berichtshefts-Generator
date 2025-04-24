@@ -5,9 +5,9 @@ Die ZIP-Datei mit der Software kann <a href="https://1drv.ms/u/s!An-QJVR_rETMjdp
 ## Übersicht
 <b>Der Berichtsheft Generator (auch als "Berichtsheft Generator.exe")</b>
 </br>
-<img src="https://raw.githubusercontent.com/webmasterandy/Berichtshefts-Generator/refs/heads/main/assets/Screenshot%202024-10-22%20112219.png">
+<img src="https://raw.githubusercontent.com/webmasterandy/Berichtshefts-Generator/refs/heads/main/assets/Screenshot%202024-10-22%20112219.pngg">
 </br>
 </br>
 <b>Der Berichtsheft Item Manager (auch als "BH Item Manager.exe")</b>
-<img src="https://raw.githubusercontent.com/webmasterandy/Berichtshefts-Generator/refs/heads/main/assets/Screenshot%202024-10-22%20112435.png">
+<img src="https://raw.githubusercontent.com/webmasterandy/Berichtshefts-Generator/refs/heads/main/assets/Screenshot%202024-10-22%20112435.pngg">
 
